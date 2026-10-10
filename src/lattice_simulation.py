@@ -8,7 +8,7 @@ def generate_radial_simulation_plot():
     across the Stall Horizon boundary layer (Equations 14-17).
     """
     # ==========================================================================
-    # 1. ESTABLISH DIMENSIONLESS RADIAL MESH (Section X)
+    # 1. ESTABLISH DIMENSIONLESS RADIAL MESH (Section 9)
     # ==========================================================================
     # Radial coordinate distance r, scaled so the Stall Horizon aligns at r = 1.0
     r = np.linspace(0.0, 2.25, 500)
