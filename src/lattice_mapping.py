@@ -17,7 +17,7 @@ beta = np.ones((TIME_STEPS, NODES))       # Dynamic running coupling function fi
 rho = np.zeros((TIME_STEPS, NODES))      # Localized mass density matrix
 
 # ==============================================================================
-# 2. PHENOMENOLOGICAL SIMULATION PARAMETERS (Section X)
+# 2. PHENOMENOLOGICAL SIMULATION PARAMETERS (Section 9)
 # ==============================================================================
 K_anchor = 2.14e9        # Chronovacuum Equivalence constant (\u1703)
 kappa = 2.0766e-43       # Einstein's gravitational constant (Pa^-1)
